@@ -6,7 +6,11 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.4.7.RELEASE</version>
 	</parent>
+
+	<groupId>daisy.chain.snapshot</groupId>
 	<artifactId>spring-boot-sample-atmosphere</artifactId>
+	<version>daisyChain-SNAPSHOT</version>
+
 	<name>Spring Boot Atmosphere Sample</name>
 	<description>Spring Boot Atmosphere Sample</description>
 	<url>http://projects.spring.io/spring-boot/</url>
